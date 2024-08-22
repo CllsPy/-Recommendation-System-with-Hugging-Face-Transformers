@@ -10,4 +10,6 @@ Construir um sistema de recomendação de filmes, usando o **HF** e a biblioteca
 ### References
 - [Transformers Lib](https://huggingface.co/docs/transformers/en/index)
 - [Dataset](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database?select=anime.csv)
+- [Embeddings Openai](https://platform.openai.com/docs/guides/embeddings)
+- [Openai CookBook](https://cookbook.openai.com/)
 
