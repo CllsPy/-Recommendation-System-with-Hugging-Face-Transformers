@@ -12,6 +12,7 @@ Construir um sistema de recomendação de filmes, usando o **HF** e a biblioteca
 - [Dataset](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database?select=anime.csv)
 - [Embeddings Openai](https://platform.openai.com/docs/guides/embeddings)
 - [Openai CookBook](https://cookbook.openai.com/)
+- [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)
 
 ### Checklist
 
