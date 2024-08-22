@@ -13,3 +13,8 @@ Construir um sistema de recomendação de filmes, usando o **HF** e a biblioteca
 - [Embeddings Openai](https://platform.openai.com/docs/guides/embeddings)
 - [Openai CookBook](https://cookbook.openai.com/)
 
+### Checklist
+
+- [ ] Limpar dataset
+- [ ] Criar Interface
+- [ ] Adicionar imagens dos animes
