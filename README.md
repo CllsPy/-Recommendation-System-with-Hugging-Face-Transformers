@@ -1,2 +1,1 @@
-# -Recommendation-System-with-Hugging-Face-Transformers
- Recommendation System with Hugging Face Transformers
+## Objetivo: Construir um sistema de recomendação de filmes, usando o **HF** e a biblioteca **Transformers**.
