@@ -18,3 +18,5 @@ Construir um sistema de recomendação de filmes, usando o **HF** e a biblioteca
 - [ ] Limpar dataset
 - [ ] Criar Interface
 - [ ] Adicionar imagens dos animes
+
+Keys Words: Transformers. Embeddings
